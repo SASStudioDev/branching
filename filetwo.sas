@@ -10,3 +10,4 @@ remotestudio
 remotestudio1
 remotestudio2
 remotestudio3
+remote
